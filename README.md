@@ -1,4 +1,4 @@
-```markdown
+
 # GitHub User Finder
 
 GitHub User Finder is a simple React application that allows users to search for GitHub profiles and view basic information about the users.
