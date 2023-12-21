@@ -1,13 +1,12 @@
 import './App.css';
-import Greeting from './Greeting';
-
+import FindUser from './FindUser';
 
 function App() {
   return (
-    <div className="App">
-      <Greeting />
-    </div>
+    <FindUser/>
   );
 }
 
 export default App;
+    
+
