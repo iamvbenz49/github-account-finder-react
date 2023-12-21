@@ -73,6 +73,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 - This project uses the [GitHub API](https://developer.github.com/v3/) to retrieve user data.
-```
-
-Feel free to use this as the content for your `README.md` file. Customize it further based on your project's specifics.
